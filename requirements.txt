@@ -2,7 +2,7 @@ affinegap==1.11
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.5
+bleach==3.3.0
 BTrees==4.7.2
 categorical-distance==1.9
 cffi==1.14.0
